@@ -20,9 +20,6 @@ Replay option after game over
 Clean UI and smooth hover effects
 
 📁 Project Structure
-pgsql
-Copy
-Edit
-├── index.html
-├── style.css
-└── script.js
+- index.html
+- style.css
+- script.js
