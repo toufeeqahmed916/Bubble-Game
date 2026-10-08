@@ -12,7 +12,7 @@ HTML – Structure of the game
 CSS – Styling and layout
 JavaScript – Game logic, timers, random number generation
 
-🚀 Features
+🚀 Features:
 Countdown timer (60 seconds)
 Randomly generated number bubbles
 Live score tracking
