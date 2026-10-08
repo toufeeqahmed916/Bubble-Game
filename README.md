@@ -1,4 +1,4 @@
-🎯 Bubble Game
+🎯 Bubble Gamee
 A fun and fast-paced number-clicking game built using HTML, CSS, and JavaScript.
 
 🕹️ How to Play
