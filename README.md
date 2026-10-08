@@ -9,7 +9,7 @@ When the timer ends, the game shows "Game Over" with a Replay button to try agai
 
 🛠️ Built With
 HTML – Structure of the game
-CSS – Styling and layout
+CSS – Styling and layoutt
 JavaScript – Game logic, timers, random number generation
 
 🚀 Features:
